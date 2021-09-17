@@ -1,4 +1,4 @@
-# Templates
+# Terraform AWS Base Networking templates
 
 A Terraform module for building a base network in AWS.
 
