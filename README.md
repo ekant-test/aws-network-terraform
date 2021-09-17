@@ -36,7 +36,7 @@ Standard tags for all resources
 
 | Name                             | Description                                                                               | Default | Required                                     |
 |----------------------------------|-------------------------------------------------------------------------------------------|:-------:|:--------------------------------------------:|
-| vpc_cidr                         | The CIDR to use for the VPC                                                               | -       | yes                                          |
+| default_vpc_cidr                 | The CIDR to use for the VPC                                                               | -       | yes                                          |
 | region                           | The region into which to deploy the VPC                                                   | -       | yes                                          |
 | Account ID                       | The Account ID of the Account                                                             | -       | yes                                          |
 
