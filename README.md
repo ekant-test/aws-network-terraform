@@ -28,6 +28,7 @@ A NAT gateway for outbound Internet connectivity
 Routes from the public subnets to the Internet gateway
 Routes from the private subnets to the NAT
 Standard tags for all resources
+Transit gateway
 
 
 
@@ -49,4 +50,4 @@ Standard tags for all resources
 | vpc_id                       | The ID of the created VPC                            |
 | vpc_cidr                     | The CIDR of the created VPC                          |
 | subnet_ids                   | The IDs of the public subnets                        |                |
-| nat_public_ips               | The EIPs attached to the NAT gateways                |
+| transit gateway ID           | The EIPs attached to the NAT gateways                |
