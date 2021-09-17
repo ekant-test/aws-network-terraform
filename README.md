@@ -16,6 +16,7 @@ When you are using cidrsubnet("10.1.2.0/21", 3, 8), you are adding 3 bits. Since
 10.1.5.0/24
 10.1.6.0/24
 10.1.7.0/24
+
 If you want to define subnets between 0 and 15, you have to use: cidrsubnet("10.1.2.0/21", 4, 8), since 2 ^ 4 = 16 and you can have sixteen subnets: 0, 1, 2, ..., 15.
 ------------------------
 
