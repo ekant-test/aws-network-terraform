@@ -50,4 +50,4 @@ Transit gateway
 | vpc_id                       | The ID of the created VPC                            |
 | vpc_cidr                     | The CIDR of the created VPC                          |
 | subnet_ids                   | The IDs of the public subnets                        |                |
-| transit gateway ID           | The EIPs attached to the NAT gateways                |
+| transit gateway ID           | The Transit gateway Id                               |
