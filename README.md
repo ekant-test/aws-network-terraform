@@ -2,7 +2,9 @@
 
 A Terraform module for building a base network in AWS.
 
-The main thing to consider for the template is Automated CIDR assignment with respect to availability zone
+The main thing to consider for the template is Automated CIDR assignment with respect to availability zone.
+
+Subnets will be created in all availability zone.
 
 Please find below example to calculate the CIDR.
 
